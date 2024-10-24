@@ -5,7 +5,7 @@ import org.example.objects.*;
 public class Main {
 
     public static void main(String[] args) {
-        String ciao = "Ciao";
+        String ciao = "Ciao, come va?";
         System.out.println("Testo: " + ciao);
 
         // Classe, Istanza
